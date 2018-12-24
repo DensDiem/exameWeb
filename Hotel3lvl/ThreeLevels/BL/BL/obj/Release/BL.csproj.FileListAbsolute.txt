@@ -1,0 +1,21 @@
+D:\веб застос\Radz\BL\BL\bin\Release\BL.dll
+D:\веб застос\Radz\BL\BL\bin\Release\BL.pdb
+D:\веб застос\Radz\BL\BL\bin\Release\BO.dll
+D:\веб застос\Radz\BL\BL\bin\Release\dsad.dll
+D:\веб застос\Radz\BL\BL\bin\Release\BO.pdb
+D:\веб застос\Radz\BL\BL\bin\Release\dsad.pdb
+D:\веб застос\Radz\BL\BL\obj\Release\BL.csproj.CoreCompileInputs.cache
+D:\веб застос\Radz\BL\BL\obj\Release\BL.csproj.CopyComplete
+D:\веб застос\Radz\BL\BL\obj\Release\BL.dll
+D:\веб застос\Radz\BL\BL\obj\Release\BL.pdb
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\BL\BL\bin\Release\BL.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\BL\BL\bin\Release\BL.pdb
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\BL\BL\bin\Release\BO.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\BL\BL\bin\Release\dsad.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\BL\BL\bin\Release\BO.pdb
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\BL\BL\bin\Release\dsad.pdb
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\BL\BL\obj\Release\BL.csprojAssemblyReference.cache
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\BL\BL\obj\Release\BL.csproj.CoreCompileInputs.cache
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\BL\BL\obj\Release\BL.csproj.CopyComplete
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\BL\BL\obj\Release\BL.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\BL\BL\obj\Release\BL.pdb

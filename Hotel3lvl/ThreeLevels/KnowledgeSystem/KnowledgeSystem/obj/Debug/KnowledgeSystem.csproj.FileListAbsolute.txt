@@ -1,0 +1,184 @@
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\KnowledgeSystem.dll.config
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\KnowledgeSystem.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\KnowledgeSystem.pdb
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\csc.exe
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\csc.exe.config
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\csc.rsp
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\csi.exe
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\csi.exe.config
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\csi.rsp
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.AppContext.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Console.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.IO.Compression.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.IO.Pipes.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Security.AccessControl.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Security.Claims.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Security.Principal.Windows.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.ValueTuple.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Xml.XPath.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\vbc.exe
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\vbc.exe.config
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\vbc.rsp
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\VBCSCompiler.exe
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\BL.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\BO.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\dsad.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\BL.pdb
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\BO.pdb
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\dsad.pdb
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\obj\Debug\KnowledgeSystem.csprojAssemblyReference.cache
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\obj\Debug\KnowledgeSystem.csproj.CoreCompileInputs.cache
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\obj\Debug\KnowledgeSystem.csproj.CopyComplete
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\obj\Debug\KnowledgeSystem.dll
+D:\веб застос\Radz\KnowledgeSystem\KnowledgeSystem\obj\Debug\KnowledgeSystem.pdb
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\KnowledgeSystem.dll.config
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\KnowledgeSystem.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\KnowledgeSystem.pdb
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\csc.exe
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\csi.exe
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\BL.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\BO.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\dsad.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\BL.pdb
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\BO.pdb
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\dsad.pdb
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\obj\Debug\KnowledgeSystem.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\obj\Debug\KnowledgeSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\obj\Debug\KnowledgeSystem.csproj.CopyComplete
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\obj\Debug\KnowledgeSystem.dll
+C:\Users\user\Desktop\ThreeLevels\KnowledgeSystem\KnowledgeSystem\obj\Debug\KnowledgeSystem.pdb
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\KnowledgeSystem.dll.config
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\KnowledgeSystem.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\KnowledgeSystem.pdb
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\csc.exe
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\csc.exe.config
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\csc.rsp
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\csi.exe
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\csi.exe.config
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\csi.rsp
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.AppContext.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Console.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.IO.Compression.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.IO.Pipes.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Security.AccessControl.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Security.Claims.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Security.Principal.Windows.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.ValueTuple.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Xml.XPath.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\vbc.exe
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\vbc.exe.config
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\vbc.rsp
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\VBCSCompiler.exe
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\BL.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\BL.pdb
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\BO.pdb
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\dsad.pdb
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\obj\Debug\KnowledgeSystem.csprojAssemblyReference.cache
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\obj\Debug\KnowledgeSystem.csproj.CoreCompileInputs.cache
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\obj\Debug\KnowledgeSystem.csproj.CopyComplete
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\obj\Debug\KnowledgeSystem.dll
+C:\exam2018WebBaranov\Hotel3lvl\ThreeLevels\KnowledgeSystem\KnowledgeSystem\obj\Debug\KnowledgeSystem.pdb

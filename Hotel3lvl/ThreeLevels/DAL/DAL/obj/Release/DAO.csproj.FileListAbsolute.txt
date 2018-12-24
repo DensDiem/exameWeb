@@ -1,0 +1,8 @@
+D:\веб застос\Radz\dsad\dsad\bin\Release\dsad.dll
+D:\веб застос\Radz\dsad\dsad\bin\Release\dsad.pdb
+D:\веб застос\Radz\dsad\dsad\bin\Release\BO.dll
+D:\веб застос\Radz\dsad\dsad\bin\Release\BO.pdb
+D:\веб застос\Radz\dsad\dsad\obj\Release\DAO.csproj.CoreCompileInputs.cache
+D:\веб застос\Radz\dsad\dsad\obj\Release\DAO.csproj.CopyComplete
+D:\веб застос\Radz\dsad\dsad\obj\Release\dsad.dll
+D:\веб застос\Radz\dsad\dsad\obj\Release\dsad.pdb

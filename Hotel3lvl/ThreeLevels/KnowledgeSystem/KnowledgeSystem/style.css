@@ -1,0 +1,19 @@
+﻿body {
+    font-family:Courier New, Courier, monospace;
+    font-size:17px;
+}
+.sRow,.fRow{
+    width:30%;
+    border:1px solid red;
+    display:inline-block;
+    margin-left:10%;
+}
+.sRow{
+    margin-bottom:50%;
+}
+.myBtn {
+    height: 30px;
+    width: 100px;
+    background-color: orangered;
+    color:snow;
+}
